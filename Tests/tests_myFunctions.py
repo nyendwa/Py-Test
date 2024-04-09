@@ -7,4 +7,4 @@ def test_sum():
 
 def test_floatSum():
     results=myFunctions.sumOfFloat(number_1=7.5, number_2=2.5)
-    assert results == 3.0
+    assert results == 10.0
